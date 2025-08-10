@@ -84,9 +84,9 @@ uvicorn main:app --reload --port 8000
 This project is licensed under the MIT License.
 
 ## 🤝 Contributors
-Dhruv Sharma — Project Website
-Avish Choudhary — Model 
-Piyush Gupta - Model 
+- Dhruv Sharma — Project Website
+- Avish Choudhary — Model 
+- Piyush Gupta — Model 
 
 
 
